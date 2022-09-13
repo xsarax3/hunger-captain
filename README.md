@@ -11,9 +11,9 @@ This is an online food menu service for Hunger Captain. When you visit the resta
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-hunger-captain1.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://sara-sd-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-hunger-captain1.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://github.com/xsarax3/hunger-captain/) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
