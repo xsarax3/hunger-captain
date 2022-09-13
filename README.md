@@ -28,8 +28,7 @@ Check out [API LIVE DEMO](https://github.com/xsarax3/hunger-captain/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/nathaliafguedes/Hunger-Captain.git
-
+1. Git Clone https://github.com/xsarax3/hunger-captain
 ```
 git clone 
 ```
