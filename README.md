@@ -4,7 +4,7 @@
 
 ```
 Hunger Captian, with a frontend built in React & Redux and a backend built in Django API.
-This is an online food menu service for Hunger Captain. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
+This is an online food menu service for Hunger Captian. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
 ```
 
 ## Live Demo
